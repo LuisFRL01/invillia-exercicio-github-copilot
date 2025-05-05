@@ -15,7 +15,7 @@ Uma aplicação extremamente simples usando FastAPI que permite aos estudantes v
    pip install fastapi uvicorn
    ```
 
-2. Execute a aplicação:
+2. Execute a aplicação: 
 
    ```
    python app.py
